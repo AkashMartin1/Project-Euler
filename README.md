@@ -1,4 +1,4 @@
 projecteuler
 ============
 
-Programmed in c++
+Programmed in c/c++
